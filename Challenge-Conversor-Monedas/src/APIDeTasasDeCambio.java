@@ -6,7 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class APIDeTasasDeCambio {
-    private static final String API_KEY = "c4ec57d31ab5c8a9c654f179"; // Reemplaza con tu clave de API
+    private static final String API_KEY = "c4ec57d31ab5c8a9c654f179"; // Reemplaza con tu clave propia de API
     private static final String URL_API = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public double convertir(String monedaDesde, String monedaHasta, double cantidad) {
