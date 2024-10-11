@@ -1,5 +1,7 @@
 # Conversor de Moneda
 
+https://cdn1.gnarususercontent.com.br/6/421189/9d4c9ba6-5b7c-4339-8055-c30d0e57eb99.png
+
 ## Descripción
 
 El **Conversor de Moneda** es una aplicación Java que permite a los usuarios convertir entre varias monedas de forma sencilla y rápida. Utiliza datos de tasas de cambio en tiempo real para asegurar que las conversiones sean precisas y actualizadas.
